@@ -1,609 +1,529 @@
-# Tổng hợp các công ty Internet & Công nghệ tại Vũ Hán
+# Tổng quan các công ty Internet tại Vũ Hán
 
-## I. Doanh nghiệp Internet
+## Công ty Internet
 
-### 1.字节跳动
+### 1. ByteDance
 
 ![image-20220715223351852](武汉,互联网公司盘点.assets/image-20220715223351852.png)
 
-字节跳动武汉分公司目前在职员工约3000人+（研发和非研发）,成立于2018年4月,**坐落于洪山区关山大道保利广场保利国际中心,而且近几年的招聘规模非常大哦~**
+Văn phòng Vũ Hán của ByteDance hiện có khoảng 3000+ nhân viên (bao gồm R&D và phi R&D), thành lập tháng 4/2018, **tọa lạc tại Bảo Lợi Quốc tế Trung tâm, Quảng trường Bảo Lợi, đường Quan Sơn, quận Hồng Sơn, và quy mô tuyển dụng những năm gần đây rất lớn.**
 
-毕竟除研发中心外，字节跳动在武汉**还拥有教育、汽车、销售、客服等多个团队。**
+Ngoài trung tâm R&D, ByteDance tại Vũ Hán **còn có nhiều team như giáo dục, ô tô, sales, CSKH.**
 
-**Mức lương dao động trong khoảng:   22～30+ \* 16**   有些还有签字费之类的**
+**Mức lương khoảng 22～30+ \* 16** Một số có thêm phí ký kết**
 
-对了 诸如武汉理工,华中科技大学等等,都是在洪山区哦.
+Nhân tiện, các trường như Vũ Hán Lý Công, Hoa Trung Khoa Đại, đều ở quận Hồng Sơn.
 
-还有还有就字节的这个薪资在武汉是很香的,而且武汉医疗很不错,有大学城,教育资源丰厚，阿秀在整理中看到武汉分公司**房补也很错哦~**,如果不想去北上广深的,这个真的可以冲,毕竟**武汉热干面真的挺好吃的**~
+Và còn nữa, mức lương của ByteDance ở Vũ Hán rất hấp dẫn, hơn nữa y tế Vũ Hán tốt, có khu đại học, tài nguyên giáo dục phong phú.阿秀 khi tổng hợp thấy văn phòng Vũ Hán **trợ cấp nhà ở cũng khá tốt.** Nếu không muốn lên Bắc Kinh/Quảng Châu/Thâm Quyến, thực sự có thể ứng tuyển, vì **mì khô Vũ Hán ăn rất ngon**~
 
-
-
-### 2.京东
+### 2. JD.com
 
 <img src="http://oss.interviewguide.cn/img/202207152238708.jpeg" alt="京东" style="zoom:200%;" />
 
-武汉的京东分公司,经过查找, 爆料出来的消息不太多,也有可能不是以武汉为主吧, 因为担心误导友友们阿秀就不多介绍, 不过感兴趣的友友们, 可以自己上网再查找下哦~
+Văn phòng JD.com tại Vũ Hán, qua tìm hiểu, thông tin tiết lộ không nhiều, có thể không lấy Vũ Hán làm trung tâm. Vì sợ gây hiểu lầm cho các bạn nên阿秀 không giới thiệu nhiều, nhưng bạn nào quan tâm có thể tự tìm hiểu thêm trên mạng.
 
-### 3.腾讯云
+### 3. Tencent Cloud
 
 <img src="http://oss.interviewguide.cn/img/202207152239736.jpeg" alt="腾讯云" style="zoom:200%;" />
 
-作为腾讯CSIG的全资子公司，腾讯云智研发公司目前在**武汉、西安、长沙、重庆**这四个“新一线”城市有研发中心。**腾讯云主要负责腾讯云后台开发维护及智慧产业相关产品的研发，旗下有腾讯会议、智慧校园、数字政府等产品** . 子Địa chỉ công ty: ：武汉市江夏区腾讯大道
+Là công ty con toàn phần của Tencent CSIG, Tencent Cloud Intelligence hiện có trung tâm R&D tại **Vũ Hán, Tây An, Trường Sa, Trùng Khánh** - bốn thành phố "tuyến 1 mới". **Tencent Cloud chủ yếu chịu trách nhiệm phát triển backend và bảo trì các sản phẩm liên quan đến ngành thông minh, với các sản phẩm như Tencent Meeting, Smart Campus, Digital Government.** Công ty con tọa lạc tại: Đường Tencent, quận Giang Hạ, Vũ Hán.
 
-子公司的Mức lương dao động trong khoảng:  **12～16 \* 16**   有些还有**签字费**之类的
+Mức lương ở công ty con khoảng **12～16 \* 16** Một số có **phí ký kết**
 
-因为是全资子公司所以和腾讯本部还是不一样的，加入之前还是要慎重考虑一下的哦~
+Vì là công ty con toàn phần nên vẫn khác với Tencent chính thức, cần cân nhắc kỹ trước khi vào.
 
-全资子公司的待遇在武汉也是属于非常不错的,不过仅就薪资在和西安的腾讯云比较是略低的,
+Đãi ngộ của công ty con toàn phần ở Vũ Hán cũng rất tốt, nhưng riêng về lương thì hơi thấp hơn so với Tencent Cloud ở Tây An.
 
-除开上述待遇,江夏区也是有诸多高校,比如武汉大学东湖分校、华中师范大学汉口分校等等十几所高校,江夏区内不下于20多万在校大学生.所以如果在这个地区工作和生活,我想是随处可以感受到青春的气息的, 毕竟和充满理想和向上信念,纯粹的青年人待在一起, 总是让人心生愉悦的,因为我们都年轻过,但依旧是少年不是嘛?友友们~~~
+Ngoài các đãi ngộ trên, quận Giang Hạ cũng có nhiều trường đại học, như Đại học Vũ Hán phân hiệu Đông Hồ, Đại học Hoa Trung Sư Phạm phân hiệu Hán Khẩu v.v. hơn chục trường, với hơn 200,000 sinh viên đại học trong quận. Vì vậy nếu làm việc và sống ở khu vực này, tôi nghĩ bạn có thể cảm nhận được bầu không khí thanh xuân ở khắp mọi nơi. Ở cạnh những người trẻ tràn đầy lý tưởng và niềm tin, luôn khiến người ta cảm thấy vui vẻ, vì chúng ta ai cũng từng trẻ, và vẫn luôn là thiếu niên phải không các bạn~~~
 
-Nếu bạn có nguyện vọng ứng tuyển, có thể tra cứu thêm thông tin trên mạng hoặc hỏi bạn bè đang làm việc tại công ty nhé~
+Nếu có ý định, các bạn có thể tra cứu thông tin cụ thể trên mạng, hoặc hỏi bạn bè đã làm trong công ty.
 
-### 4.斗鱼
+### 4. Douyu (Đấu Ngư)
 
 <img src="http://oss.interviewguide.cn/img/202207152239184.png" alt="斗鱼" style="zoom:200%;" />
 
-斗鱼目前在国内的直播行业也是属于龙头企业了，2020年和虎牙合并。Mức lương dao động trong khoảng:   **17～24 \* 15**  ,公司地址坐落于**洪山区**光谷软件园
+Douyu hiện là doanh nghiệp hàng đầu trong ngành livestream trong nước, sáp nhập với Huya năm 2020. Mức lương khoảng **17～24 \* 15**, địa chỉ công ty tại **quận Hồng Sơn**, Khu phần mềm Quang Cốc.
 
-这个薪资在武汉的话也算还行的，**工作时间好像是弹性**, 最重要的是还有机会**见到一些知名主播**。斗鱼是武汉比较大的一家本土互联网公司，直播行业的龙头，**武汉市第一家“独角兽”级互联网创业公司**。 
+Mức lương này ở Vũ Hán cũng khá ổn, **thời gian làm việc hình như linh hoạt**, quan trọng nhất là còn **có cơ hội gặp một số streamer nổi tiếng**. Douyu là một công ty Internet bản địa khá lớn ở Vũ Hán, là công ty dẫn đầu ngành livestream, **công ty Internet khởi nghiệp "kỳ lân" đầu tiên của Vũ Hán.**
 
-其实也蛮不错的, 平时上班写业务,下班学习做主播, 直接第二职业都选好了, 利用好资源, 友友们都是年薪百万的苗子~
+Thực ra cũng khá tốt, ban ngày đi làm viết code, tối về học làm streamer, có luôn nghề tay trái. Tận dụng tài nguyên tốt, các bạn đều có tiềm năng triệu phú ~
 
-Nếu bạn có nguyện vọng ứng tuyển, có thể tra cứu thêm thông tin trên mạng hoặc hỏi bạn bè đang làm việc tại công ty nhé~
+Nói thật, nếu có ý định, các bạn có thể tra cứu thông tin cụ thể trên mạng, hoặc hỏi bạn bè đã làm trong công ty.
 
-
-
-### 5.小红书
+### 5. Xiaohongshu (RED)
 
 <img src="http://oss.interviewguide.cn/img/202207152239819.jpg" alt="小红书" style="zoom:200%;" />
 
+Xiaohongshu là nền tảng về phong cách sống và quyết định tiêu dùng, không chỉ nhiều bạn nữ thích lướt nền tảng này, mà công ty còn có nhiều chị em độc thân (tin đồn nhỏ chỉ để tham khảo, cụ thể vẫn dựa trên thực tế). Tọa lạc tại: Bảo Lợi Quốc tế Trung tâm, đường Quan Sơn, **quận Hồng Sơn**, Vũ Hán.
 
+Mức lương khoảng **19～30 \* 15.5, một số có phí ký kết** (tất nhiên có thể xem offershow để biết mức lương ở các thành phố khác, chỉ để ước tính).
 
-小红书是一个生活方式平台和消费决策入口，不仅仅很多女生比较喜欢刷这个平台,而且公司也有很多单身小姐姐哦(小道消息仅供参考, 具体还是要以实情为主) 坐落于:武汉市**洪山区**关山大道保利国际中心
+Ở Vũ Hán cụ thể có thể trả bao nhiêu, không thấy ai tiết lộ, chắc đều trong khoảng trên.
 
-Mức lương dao động trong khoảng:   **19～30 \* 15.5 部分有签字费**(当然可以offershow其他城市的薪资范畴, 仅供估计)
+Nếu muốn tìm một người cùng code, đây là nơi rất tốt, cùng nhau tản bộ dưới tán hoa anh đào, trong lúc rảnh rỗi sau giờ làm, cảm nhận cuộc sống đáng sống~
 
-在武汉具体可以给到多少，没看到有爆料的，应该都在上面的数字区间内～
-
-如果想要找一个一起coding的程序猿, 这里是很不错的, 一起执手漫步于樱花树下,在工作的闲余,感受人间很值得~
-
-
-
-### 6.金山
+### 6. Kingsoft (Kim Sơn)
 
 <img src="http://oss.interviewguide.cn/img/202207152239782.jpeg" alt="金山" style="zoom:200%;" />
 
+Kingsoft thành lập văn phòng Vũ Hán năm 2017, sản phẩm chính là bộ ứng dụng văn phòng WPS. Công ty tọa lạc tại: Tòa 2, Quảng trường APP Quang Cốc, đường Quan Sơn, quận Hồng Sơn, Vũ Hán.
 
+Mức lương khoảng **18～25 \* 15**, một số team có thể có overtime.
 
-金山2017年在武汉创立分公司，主要产品是 WPS 办公套件。Địa chỉ công ty: :武汉市洪山区关山大道光谷APP广场2号楼.
+Mức lương này ở Vũ Hán cũng khá tốt, rất hấp dẫn~
 
-Mức lương dao động trong khoảng:   **18～25 \* 15** ,  部分项目组会存在加班情况哈.
+## Nhà máy điện thoại
 
-不过这个Mức lương dao động trong khoảng: 武汉也还不错的，挺香的～
-
-
-
-## II. Hãng điện thoại & Phần cứng
-
-### 1.华为
+### 1. Huawei
 
 ![image-20220715223943255](http://oss.interviewguide.cn/img/202207152239639.png)
 
-华为不属于传统意义上的互联网公司，不过算得上是大厂。华为在武汉有一个研究所，Địa chỉ công ty: :武汉市江夏区文化大道华为武汉研究所 (目前已自建办公园区基地)。
+Huawei không thuộc công ty Internet theo nghĩa truyền thống, nhưng có thể coi là大厂. Huawei có một viện nghiên cứu tại Vũ Hán, tọa lạc tại: Đường Văn Hóa, quận Giang Hạ, Vũ Hán (hiện đã tự xây dựng khuôn viên văn phòng).
 
-众所周知, 咱们家华为()是员工股权激励、也是薪资非常有竞争力。华为校招根据面试评分给应届生进行评级，这个在**西安那一期是有介绍的哦**, 本科生和硕士生的评级在 13 级 和 15 级 之间，每一级又分为 A、B、C 三个档。根据评级进行工资的评定，13 级 和 14 级 的税前工资在每月 13-19k 之间，每年 14 薪。15 级 需要特别优秀的硕士才能拿到，工资年包基本在税前 30 万 - 40 万之间。
+Ai cũng biết, Huawei có chương trình cổ phiếu ưu đãi cho nhân viên, lương rất cạnh tranh. Huawei xếp hạng sinh viên mới tốt nghiệp dựa trên điểm phỏng vấn, như đã giới thiệu ở **kỳ Tây An**, sinh viên đại học và thạc sĩ được xếp từ cấp 13 đến cấp 15, mỗi cấp lại chia làm 3 mức A, B, C. Lương được xác định dựa trên xếp hạng, lương trước thuế của cấp 13 và 14 khoảng 13-19k/tháng, 14 tháng/năm. Cấp 15 chỉ dành cho thạc sĩ xuất sắc, gói lương năm cơ bản từ 30-40 vạn trước thuế.
 
-华为加班比较多，压力可能会比较大。不过，薪资收入在武汉绝对是 Top 级别。
+Huawei overtime khá nhiều, áp lực có thể lớn. Tuy nhiên, thu nhập ở Vũ Hán chắc chắn là Top.
 
-Mức lương dao động trong khoảng:  **16～30 \* 12**   不同级别年终奖不一样，有的是2-4月薪资有的是直接发多少钱这样子。
+Mức lương khoảng **16～30 \* 12**, thưởng cuối năm khác nhau tùy cấp, có chỗ là 2-4 tháng lương, có chỗ trả thẳng một khoản.
 
-
-
-### 2.小米
+### 2. Xiaomi
 
 <img src="http://oss.interviewguide.cn/img/202207152239311.png" alt="小米" style="zoom:200%;" />
 
+Xiaomi cũng đặt trụ sở chính tại Vũ Hán. Xiaomi phát triển khá nhanh ở Vũ Hán, hiện đã có hơn 2000 nhân viên. Tọa lạc tại: Trung tâm R&D Xiaomi Vũ Hán, đường Cửu Phong Nhất, Đông Hồ Cao Tân, Vũ Hán (tự xây dựng).
 
+Các bạn có thể xem mức lương cụ thể trên offershow.
 
+## Doanh nghiệp nhà nước
 
-
-小米总部也设立在了武汉。小米在武汉的发展还挺迅速，目前，小米在武汉员工已经超过 2000 人。坐落于: 武汉东湖高新九峰一路小米武汉研发中心（自建）
-
-Chi tiết mức lương các bạn có thể tham khảo thêm trên OfferShow hoặc Nowcoder nhé~
-
-
-
-## III. Doanh nghiệp Nhà nước (SOE)
-
-
-
-#### 1.银联商务
+### 1. China UnionPay Merchant Services
 
 <img src="http://oss.interviewguide.cn/img/202207152240033.jpeg" alt="银联" style="zoom:200%;" />
 
-pos 收单业务 **总包20w左右**,坐落于:江岸区建设大道618号信合大厦12楼
+Dịch vụ thu hút POS **tổng gói khoảng 20w**, tọa lạc tại: Tầng 12, Tòa nhà Tín Hợp, số 618 đường Kiến Thiết, quận Giang Ngạn.
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 2.中国电子系统技术有限公司
+### 2. China Electronics System Technology Co., Ltd.
 
 <img src="http://oss.interviewguide.cn/img/202207152240889.png" alt="国电" style="zoom:200%;" />
 
+**Lương tháng 10.5-12k**. Địa chỉ: Tòa nhà 2, Khu dân cư Kỳ Lân, quận Giang Ngạn, Vũ Hán.
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
- **月薪10.5-12k**公司位置:武汉市江岸区麒麟小区2号楼
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 3.统信软件
+### 3. UnionTech Software
 
 <img src="http://oss.interviewguide.cn/img/202207152240600.png" alt="统信" style="zoom:200%;" />
 
-（UOS操作系统 **只看到西安2020年10\*12**）
+(Hệ điều hành UOS **chỉ thấy Tây An 2020 là 10\*12**)
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 4.数字政通
+### 4. Digital China (数字政通)
 
 <img src="https://image0.lietou-static.com/img/5bfe97ea74719df0ac9953bc03a.png" alt="政通" style="zoom:200%;" />
 
-**月薪16～18k** 第一年没有年终
+**Lương tháng 16～18k**, năm đầu không có thưởng cuối năm.
 
-说实在话, 如果有意向的, 请务必查过某乎, 某度等等之后再做考虑. 
+Nói thật, nếu có ý định, hãy nhớ tra cứu kỹ trên某乎,某度 v.v. trước khi quyết định.
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 5.中兴
+### 5. ZTE (Trung Hưng)
 
 <img src="http://oss.interviewguide.cn/img/202207152240256.jpeg" alt="中兴" style="zoom:200%;" />
 
- 今年基本**月薪16k起步** 相比去年多了很多，而且中兴的薪资可以谈，蓝剑计划更多～
+Năm nay cơ bản **lương tháng từ 16k trở lên**, cao hơn nhiều so với năm ngoái, và lương ZTE có thể thương lượng, chương trình Blue Sword còn nhiều hơn~
 
-
-
-#### 6.烽火通信
+### 6. FiberHome (Phong Hỏa Thông Tin)
 
 <img src="http://oss.interviewguide.cn/img/202207152240999.jpg" alt="烽火" style="zoom:200%;" />
 
- **总包25w**
+**Tổng gói 25w**
 
-如果是双非的友友, 可能会有第三面不过的情况. 不过具体薪资待遇, 可以自行再查查哦~
+Nếu là bạn từ trường không phải 985/211, có thể bị trượt vòng 3. Tuy nhiên, lương và đãi ngộ cụ thể có thể tự tra cứu thêm.
 
-#### 7.远光软件
+### 7. YGSoft (Viễn Quang Phần Mềm)
 
 <img src="http://oss.interviewguide.cn/img/202207152240687.jpeg" alt="远光" style="zoom:200%;" />
 
+YGSoft Vũ Hán tọa lạc tại Quang Cốc Kim Dung Cảng, có xe đưa đón và căng tin, đãi ngộ tổng thể khá tốt. Ngoài ra, môi trường khuôn viên rất phù hợp với giới trẻ, gần trường đại học, không khí sôi động.
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-远光武汉位于光谷金融港，有通勤车和食堂，整体待遇不错。另外，园区的环境很适合年轻人，附近有大学，人气也很旺。
+## Ngân hàng
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-## IV. Ngân hàng & Tài chính
-
-#### 1.九江银行武汉研发中心
+### 1. Ngân hàng Cửu Giang - Trung tâm R&D Vũ Hán
 
 <img src="http://oss.interviewguide.cn/img/202207152240340.jpeg" alt="九江" style="zoom:200%;" />
 
- **总包24w**
+**Tổng gói 24w**
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 2.农业银行武汉研发中心
+### 2. Ngân hàng Nông nghiệp Trung Quốc - Trung tâm R&D Vũ Hán
 
 <img src="http://oss.interviewguide.cn/img/202207152240681.jpg" alt="农行" style="zoom:200%;" />
 
- **参考西安23-25w**
+**Tham khảo Tây An 23-25w**
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 3.建设银行武汉研发中心
+### 3. Ngân hàng Kiến Thiết Trung Quốc - Trung tâm R&D Vũ Hán
 
 <img src="http://oss.interviewguide.cn/img/202207152240968.gif" alt="建设" style="zoom:200%;" />
 
- 建设银行为员工提供的各种补贴,还是蛮不错的~ 
+Ngân hàng Kiến Thiết cung cấp nhiều khoản trợ cấp cho nhân viên, khá tốt~
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 4.浦发银行武汉研发中心
+### 4. Ngân hàng Phổ Đông - Trung tâm R&D Vũ Hán
 
 ![image-20220715224059386](http://oss.interviewguide.cn/img/202207152241947.png)
 
- **13-15w**
+**13-15w**
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 5.招银云创
+### 5. CMB Cloud (Chiêu Ngân Vân Sáng)
 
 <img src="http://oss.interviewguide.cn/img/202207152241118.png" alt="招银" style="zoom:200%;" />
 
-据阿秀搜集,发现招银薪资待遇很不错，公司也再扩建中，全部15薪，办公环境在武汉属于一流，也是全额缴纳，技术架构通通用的最新的。个人觉得打败武汉百分之80+的互联网公司没问题。大佬很多，领导很nice。
+Theo阿秀 tìm hiểu, phát hiện lương và đãi ngộ của CMB Cloud rất tốt, công ty cũng đang mở rộng, toàn bộ 15 tháng lương, môi trường văn phòng ở Vũ Hán thuộc hàng nhất, đóng bảo hiểm đầy đủ, tech stack toàn dùng mới nhất. Cá nhân nghĩ đánh bại 80%+ công ty Internet ở Vũ Hán không thành vấn đề. Nhiều đại lão, lãnh đạo rất nice.
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 6.众邦银行
+### 6. Ngân hàng Zhongbang (Chúng Bang)
 
 <img src="http://oss.interviewguide.cn/img/202207152241985.jpeg" alt="众邦" style="zoom:200%;" />
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Sáu bảo hiểm hai quỹ, phúc lợi ngày lễ, nghỉ phép có lương, phúc lợi sinh nhật. Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 7.微众银行
+### 7. WeBank (Vi Chúng Ngân Hàng)
 
 ![image-20220715224127869](http://oss.interviewguide.cn/img/202207152241076.png)
 
-#### 8.长江证券
+### 8. Trường Giang Chứng Khoán
 
 <img src="http://oss.interviewguide.cn/img/202207152241091.jpg" alt="长江" style="zoom:200%;" />
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-## V. Doanh nghiệp Đa quốc gia (MNC / Foreign Companies)
+## Công ty nước ngoài
 
-### 1.ThougtWorks(思特沃克)
+### 1. ThoughtWorks (Tư Đặc Ốc Khắc)
 
 <img src="http://oss.interviewguide.cn/img/202207152241413.jpeg" alt="外企" style="zoom:200%;" />
 
-Địa chỉ công ty: :洪山区关山大道保利广场保利国际中心
+Công ty tọa lạc tại: Bảo Lợi Quốc tế Trung tâm, Quảng trường Bảo Lợi, đường Quan Sơn, quận Hồng Sơn.
 
-阿秀在<<西安,互联网盘点>>,对此已经介绍很多了哦.感兴趣的小伙伴可以去上一期查阅.也是已经记录过的ThougtWorks 的新人培养机制还是很赞的！对于应届生入职 ThougtWorks 的话，在你正式上手做项目之前会有 1 个月左右的培训时间。社招的话，整个流程一般会比较简单点，相关人员带你了解了公司的基本情况后，后面可能就会让你开始上手做项目了。
+阿秀 trong <<西安,互联网盘点>> đã giới thiệu khá nhiều về công ty này. Các bạn quan tâm có thể xem kỳ trước. Cơ chế đào tạo nhân viên mới của ThoughtWorks rất đáng khen! Đối với sinh viên mới tốt nghiệp vào ThoughtWorks, trước khi chính thức làm dự án sẽ có khoảng 1 tháng đào tạo. Với người đi làm chuyển việc, quy trình thường đơn giản hơn, nhân viên liên quan sẽ giới thiệu cho bạn hiểu về tình hình cơ bản của công ty, sau đó có thể bắt đầu làm dự án.
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
+## Khác
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-## VIII. Các doanh nghiệp khác
-
-#### 1.旷视科技
+### 1. Megvii (旷视科技)
 
 <img src="http://oss.interviewguide.cn/img/202207152241263.jpeg" alt="旷视" style="zoom:200%;" />
 
-(**无爆料，算法为主！**)
+(**Không có tiết lộ, chủ yếu là thuật toán!**)
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 2.神策数据
+### 2. Sensors Data (Thần Sách Dữ Liệu)
 
 <img src="http://oss.interviewguide.cn/img/202207152241237.jpg" alt="神策" style="zoom:200%;" />
 
- **(14~22)\*14** 
+**(14~22)\*14**
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 3.途虎养车
+### 3. Tuhu (Đồ Hổ Dưỡng Xa)
 
 <img src="http://oss.interviewguide.cn/img/202207152241700.png" alt="养车" style="zoom:200%;" />
 
 **14~23)\*14.4**
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 4.奇安信
+### 4. Qi-Anxin (Kỳ An Tín)
 
 ![image-20220715224208103](http://oss.interviewguide.cn/img/202207152242336.png)
 
-**总包20w左右**,原360的政企部门分出来的，根基好，投资人舍得砸钱
+**Tổng gói khoảng 20w**, tách ra từ bộ phận chính phủ-doanh nghiệp của 360, nền tảng tốt, nhà đầu tư chịu chi tiền.
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 5.西山居.
+### 5. Xishanju (Tây Sơn Cư)
 
 <img src="http://oss.interviewguide.cn/img/202207152242627.jpeg" alt="西山居" style="zoom:200%;" />
 
-(**数据不多**)
+(**Dữ liệu không nhiều**)
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 6.宝宝树武汉研发中心
+### 6. BabyTree (Bảo Bảo Thụ) - Trung tâm R&D Vũ Hán
 
 <img src="http://oss.interviewguide.cn/img/202207152242505.jpeg" alt="宝宝" style="zoom:200%;" />
 
-（**无爆料**）
+(**Không có tiết lộ**)
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 7.青藤云安全
+### 7. QingTeng Cloud Security (Thanh Đằng Vân An Toàn)
 
 <img src="http://oss.interviewguide.cn/img/202207152242939.jpeg" alt="青藤" style="zoom:200%;" />
 
-**无爆料**）
+**Không có tiết lộ**
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 8.青云 QingCloud
+### 8. QingCloud (Thanh Vân)
 
 <img src="http://oss.interviewguide.cn/img/202207152242756.jpg" alt="青云" style="zoom:200%;" />
 
+**Tổng gói 14～15w**
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-**总包14～15w**
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 9.孚创
+### 9. FuChuang (Phu Sáng)
 
 <img src="http://oss.interviewguide.cn/img/202207152242473.jpg" alt="孚创" style="zoom:200%;" />
 
-（**无爆料**）
+(**Không có tiết lộ**)
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 10.丰巢
+### 10. FengChao (Phong Sào)
 
 <img src="http://oss.interviewguide.cn/img/202207152242972.png" alt="丰巢" style="zoom:200%;" />
 
-（**无爆料**）
+(**Không có tiết lộ**)
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 11.微派网络
+### 11. WeiPai Network (Vi Phái Mạng Lưới)
 
 <img src="http://oss.interviewguide.cn/img/202207152242898.png" alt="微派" style="zoom:200%;" />
 
+Có bạn tiết lộ: môi trường làm việc tốt, không khí làm việc tốt, đãi ngộ ở Vũ Hán cũng rất tốt.
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-有友友爆料:挺好的工作氛围很好 待遇也在武汉算很不错的
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 12.多益网络
+### 12. DuoYi Network (Đa Ích Mạng Lưới)
 
 <img src="http://oss.interviewguide.cn/img/202207152242295.png" alt="多益" style="zoom:200%;" />
 
-（游戏研发为主）
+(Chủ yếu phát triển game)
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 13.盛天网络
+### 13. Shengtian Network (Thịnh Thiên Mạng Lưới)
 
 <img src="http://oss.interviewguide.cn/img/202207152242992.png" alt="盛天" style="zoom:200%;" />
 
+Theo阿秀 tìm hiểu, có thông tin (chỉ để tham khảo), không thích hợp cho sinh viên mới tốt nghiệp.
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-据阿秀搜集,有消息哈(仅仅供参考), 不太适合应届生去.
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 14.明源云
+### 14. Mingyuan Cloud (Minh Nguyên Vân)
 
 <img src="http://oss.interviewguide.cn/img/202207152242019.png" alt="明源云" style="zoom:200%;" />
 
-(地产相关，已上市）
+(Liên quan đến bất động sản, đã niêm yết)
 
-据阿秀搜集,说是公司氛围很融洽, 和管理也比较扁平化~
+Theo阿秀 tìm hiểu, không khí công ty rất hòa hợp, quản lý khá phẳng~
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 15.人人网武汉研发中心
+### 15. Renren Network (Nhân Nhân Mạng) - Trung tâm R&D Vũ Hán
 
 <img src="http://oss.interviewguide.cn/img/202207152242792.jpeg" alt="人人" style="zoom:200%;" />
 
- **无爆料**
+**Không có tiết lộ**
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 16.TCL 武汉研发中心
+### 16. TCL - Trung tâm R&D Vũ Hán
 
 <img src="http://oss.interviewguide.cn/img/202207152243389.png" alt="TCL" style="zoom:200%;" />
 
- **总包20多w**
+**Tổng gói hơn 20w**
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 17.海信武汉研发中心
+### 17. Hisense (Hải Tín) - Trung tâm R&D Vũ Hán
 
 <img src="http://oss.interviewguide.cn/img/202207152243462.jpg" alt="海信" style="zoom:200%;" />
 
- **总包22w左右**
+**Tổng gói khoảng 22w**
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 18.海康威视
+### 18. Hikvision (Hải Khang Uy Thị)
 
 <img src="http://oss.interviewguide.cn/img/202207152243081.jpg" alt="海康" style="zoom:200%;" />
 
- **总包20w多**
+**Tổng gói hơn 20w**
 
-据阿秀搜集, 海康可能相较加班更多一点点哈(仅供参考)
+Theo阿秀 tìm hiểu, Hikvision có thể hơi nhiều overtime hơn một chút (chỉ để tham khảo)
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 19.绿盟
-
-
+### 19. NSFOCUS (Lục Minh)
 
 ![image-20220715224345603](http://oss.interviewguide.cn/img/202207152243688.png)
 
-（**16-25k的都有 \* 14）**同时在阿秀的上一期<<西安,互联网盘点>>也有详细介绍, 可以作为参考
+**(16-25k đều có \* 14)** Đồng thời ở kỳ trước của阿秀 <<西安,互联网盘点>> cũng có giới thiệu chi tiết, có thể tham khảo.
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 20.联发科
+### 20. MediaTek (Liên Phát Khoa)
 
 <img src="http://oss.interviewguide.cn/img/202207152243083.jpg" alt="联发科" style="zoom:200%;" />
 
-**总包20w**
+**Tổng gói 20w**
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 21.神州数码
+### 21. Digital China (Thần Châu Số Mã)
 
 <img src="http://oss.interviewguide.cn/img/202207152243845.jpeg" alt="神州" style="zoom:200%;" />
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 22.悦然心动
+### 22. YueranXinDong (Duyệt Nhiên Tâm Động)
 
 <img src="http://oss.interviewguide.cn/img/202207152244917.jpg" alt="心动" style="zoom:200%;" />
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 23.石墨文档
+### 23. Shimo (Thạch Mặc) Documents
 
 <img src="http://oss.interviewguide.cn/img/202207152244683.jpg" alt="石墨" style="zoom:200%;" />
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 24.有赞
+### 24. Youzan (Hữu Tán)
 
 <img src="http://oss.interviewguide.cn/img/202207152244912.jpeg" alt="有赞" style="zoom:200%;" />
 
- **杭州居多**
+**Chủ yếu ở Hàng Châu**
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 25.亚信
+### 25. AsiaInfo (Á Tín)
 
 <img src="http://oss.interviewguide.cn/img/202207152244482.jpeg" alt="亚信" style="zoom:200%;" />
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-
-
-#### 26.风行在线
+### 26. Fengxing Online (Phong Hành Trực Tuyến)
 
 <img src="http://oss.interviewguide.cn/img/202207152244667.png" alt="风行" style="zoom:200%;" />
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 27.扬讯
+### 27. YangXun (Dương Tấn)
 
 <img src="http://oss.interviewguide.cn/img/202207152244666.jpg" alt="扬迅" style="zoom:200%;" />
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 28.沪江教育
+### 28. Hujiang Education (Hộ Giang Giáo Dục)
 
 <img src="http://oss.interviewguide.cn/img/202207152244745.png" alt="沪江" style="zoom:200%;" />
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 29.中原电子
+### 29. Zhongyuan Electronics (Trung Nguyên Điện Tử)
 
 <img src="http://oss.interviewguide.cn/img/202207152244056.jpeg" alt="电子" style="zoom:200%;" />
 
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-#### 30.百纳信息
+### 30. Bainiao Information (Bách Nạp Tin Tức)
 
 <img src="http://oss.interviewguide.cn/img/202207152244474.png" alt="百" style="zoom:200%;" />
 
-（海豚浏览器）
+(Dolphin Browser - Hải Đồn Trình Duyệt)
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 31.尚德机构
+### 31. Shangde Institution (Thượng Đức Cơ Cấu)
 
 <img src="http://oss.interviewguide.cn/img/202207152244477.png" alt="尚德" style="zoom:200%;" />
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 32.三七互娱
+### 32. 37 Interactive Entertainment (Tam Thất Hỗ Ngự)
 
 <img src="http://oss.interviewguide.cn/img/202207152244719.jpg" alt="三七" style="zoom:200%;" />
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 33.360武汉研发中心
+### 33. 360 - Trung tâm R&D Vũ Hán
 
 <img src="http://oss.interviewguide.cn/img/202207152244840.jpg" alt="360公司" style="zoom:200%;" />
 
+Trong <<西安,互联网盘点>> của阿秀 cũng có giới thiệu, có thể tham khảo.
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-在阿秀<<西安,互联网盘点>>也有介绍, 可以作为参考哦
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 34.联 影
+### 34. LianYing (Liên Ảnh)
 
 <img src="http://oss.interviewguide.cn/img/202207152245017.jpg" alt="联" style="zoom:200%;" />
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-
-
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 35.科大讯飞
+### 35. iFLYTEK (Khoa Đại Tấn Phi)
 
 <img src="http://oss.interviewguide.cn/img/202207152245137.jpeg" alt="科大" style="zoom:200%;" />
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-
-
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 36.噢易云计算
+### 36. OYE Cloud (O Dịch Vân Tính Toán)
 
 <img src="http://oss.interviewguide.cn/img/202207152245033.jpg" alt="云" style="zoom:200%;" />
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-
-
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 37.卷皮网
+### 37. JuanPi Network (Quyển Bì Mạng)
 
 <img src="http://oss.interviewguide.cn/img/202207152245071.jpg" alt="卷" style="zoom:200%;" />
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 38.活力天汇
+### 38. HuoLianTianHui (Hoạt Lực Thiên Hối)
 
 <img src="http://oss.interviewguide.cn/img/202207152245926.png" alt="活力" style="zoom:200%;" />
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 39.多比特
+### 39. DuoBiTe (Đa Bỉ Đặc)
 
 <img src="http://oss.interviewguide.cn/img/202207152245991.jpg" alt="多" style="zoom:200%;" />
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 40.木仓科技
+### 40. MuCang Technology (Mộc Thương Khoa Kỹ)
 
 <img src="http://oss.interviewguide.cn/img/202207152245694.png" alt="木仓" style="zoom:200%;" />
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 41.极 验
+### 41. JiYan (Cực Nghiệm)
 
 <img src="http://oss.interviewguide.cn/img/202207152245563.png" alt="极" style="zoom:200%;" />
 
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
 
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
-
-#### 42.找钢网
+### 42. ZhaoGang Network (Tìm Cương Mạng)
 
 <img src="http://oss.interviewguide.cn/img/202207152245762.png" alt="找钢" style="zoom:200%;" />
 
-
-
-
-
-Chi tiết mức lương và chế độ đãi ngộ các bạn có thể tra cứu thêm trên OfferShow và các diễn đàn tuyển dụng nhé~
+Thông tin cụ thể về lương và phúc lợi có thể tra cứu trên offershow và mạng.
